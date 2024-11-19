@@ -3,6 +3,9 @@
 ## Project Overview
 Our Bike Repair AI Chatbot is designed to assist users with diagnosing and solving common bike issues. Once identifying the issue, the chatbot will then provide steps for the user to fix it. We use natural language processing and machine learning models to allow users to interact with it through simple conversation.
 
+## Project Link
+https://cdn.botpress.cloud/webchat/v2.1/shareable.html?botId=162d3737-755e-429e-bb18-0479524a68c3
+
 ## Features
 - **Conversational AI**: The chatbot allows for real-time conversations to troubleshoot bike problems. The AI will remember your problem as the conversation progresses and use what you said throughout the conversation for suggestions.
 - **Exit Detection**: The chatbot has been designed to detect when the user's problem is solved and will end the conversation accordingly.
