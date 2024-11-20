@@ -35,9 +35,17 @@ Knowledgebase sources - These are some of the sources we use to create the steps
 ---
 ## Diagrams!
 ### Main flow (happy path)
+<img width="1195" alt="image" src="https://github.com/user-attachments/assets/822e6b85-3b82-4a27-8fd8-5e7ea5b7f745">
 
 ### Capturing user bike details
+<img width="1248" alt="image" src="https://github.com/user-attachments/assets/2f9857d5-3caa-4133-8aca-423b1ac72e9a">
 
-### Knowledgebase query
+### Question/Answer Loop
+<img width="1230" alt="image" src="https://github.com/user-attachments/assets/40052cb8-ed49-417a-89cd-0f87e137387b">
 
-### Ending the conversation
+### Knowledgebase query params
+<img width="1170" alt="image" src="https://github.com/user-attachments/assets/5aaf96f0-f13e-4286-82b1-f084e775e714">
+
+### Question query params
+<img width="624" alt="image" src="https://github.com/user-attachments/assets/e4088d53-f457-4cc0-a06c-3f778329dc59">
+
