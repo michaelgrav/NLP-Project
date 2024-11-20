@@ -6,6 +6,10 @@ Our project is a chatbot that is designed to help users repair their bike. It's 
 ## Project Link
 You can test the chatbot here -> https://cdn.botpress.cloud/webchat/v2.1/shareable.html?botId=162d3737-755e-429e-bb18-0479524a68c3
 
+## Project Video (Click on thumbnail)
+[![Project Video](https://img.youtube.com/vi/16DXDKGq6BY/0.jpg)](https://www.youtube.com/watch?v=16DXDKGq6BY)
+
+
 ## Features
 - **Conversational AI**: The chatbot allows for real-time conversations to troubleshoot bike problems. The AI will remember your problem as the conversation progresses and use what you said throughout the conversation for repair suggestions.
 - **Exit Detection**: The chatbot has been designed to detect when the user's problem is solved and will decide to end the conversation accordingly.
